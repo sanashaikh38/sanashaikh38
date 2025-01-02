@@ -17,7 +17,7 @@ Feel free to check out my Kaggle profile and connect with me:
 
 https://www.kaggle.com/sanashaikh03
   
-## Intrests
+## Interest
 - Python Programming
 - Machine Learning
 - Software Development
